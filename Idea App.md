@@ -1,4 +1,8 @@
-## 1.- Explicación de la Aplicación
+<div align="justify">
+
+# Gestor Hoteles
+
+## 1.- Descripción 
 
 La aplicación está pensada para poder llevar toda la gestión de un hotel, desde las reservas hasta las compras hechas dentro del recinto, pasando por las comidas y otros gastos que puedan tener los clientes, esta app estaría pensada para que los clientes tuvieran de una forma mas rápida y sencilla acceso a todas las actividades del hotel.
 También estaría pensada para que el mismo hotel y los trabajadores pudieran tener un mejor registro de los clientes y que todo se pudiera hacer con mas facilidad.
@@ -12,5 +16,7 @@ La aplicación también contaría con una parte de análisis de datos para poder
 ## 2.- Idea de la base de datos y su diagrama
 
 El modelo relacional de la base de datos estará en un archivo a parte:
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/jorgejpg/Multimedia/master/MER_Hotel.png">
+  </div>
+</div>
