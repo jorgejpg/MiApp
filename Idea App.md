@@ -12,3 +12,5 @@ La aplicación también contaría con una parte de análisis de datos para poder
 ## 2.- Idea de la base de datos y su diagrama
 
 El modelo relacional de la base de datos estará en un archivo a parte:
+
+<img src="https://raw.githubusercontent.com/jorgejpg/Multimedia/master/MER_Hotel.png">
