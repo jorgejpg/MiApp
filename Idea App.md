@@ -17,6 +17,6 @@ La aplicación también contaría con una parte de análisis de datos para poder
 
 El modelo relacional de la base de datos estará en un archivo a parte:
 <div align="center">
-<img src="https://raw.githubusercontent.com/jorgejpg/Multimedia/master/MER_Hotel.png">
+<img src="https://raw.githubusercontent.com/jorgejpg/Multimedia/master/BBDD.png">
   </div>
 </div>
