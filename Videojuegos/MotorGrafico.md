@@ -1,6 +1,6 @@
 <div aling="center">
 # BuildBox
- <div aling="center">![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/buildbox_logo.png)</div>
+ ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/buildbox_logo.png)
 
 
 
