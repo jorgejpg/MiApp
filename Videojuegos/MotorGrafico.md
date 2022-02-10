@@ -53,24 +53,58 @@ Como ya comentado en apartados anteriores su mayor caracteristica, tanto para bi
 ### Instalación
 
 Para descargar el motor lo primero que debemos ahcer es ir a la pagina del motor `<link>` : <https://signup.buildbox.com/> ya en la página iremos a la parte de producto y elegiremos el motor clasico (El motor en 2D)
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/paginstall.png)
 
 Al iniciar el ejecutable sera todo bastante sencillo y en la mayoria de casos solo tendremos que darle a "next"
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/instalador.png)
 
 Elegimos la ruta donde se hara la instalación
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/ruta.png)
 
 Y lo instalamos sin mucha dificualtad como comente antes ya que no es un progama que necesite de muchas dependencias o de terceros programas para su ejecución
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/install.png)
 
 Aceptamos los terminos de uso y nos registramos
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/usos.png)
 
 Y ya estaría todo preparado y listo para hacer nuestro nuevo y innovador juego en 2D para moviles
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/menu.png)
 
-## Ejemplos
+
+
+
+## Ejemplo
+
+Como ejemplos de lo que puede hacer este motor grafico en 2D vamos a usar una de las demos que trae de por si el programa instalado instalado para ello vamos a abrirlo y en el menu princimal seleccionar dicha demo
+![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/demo.png)
+
+Una vez abierto el proyecto podemos ver lo como es el programa en si
+![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/proyecto.png)
+A la izquierda se pueden ver tanto la barra de herramientas y assets como el indice de todos los nodos que se tengan arrastrados y en uso en el proyecto
+
+La barra de assets y herramientas podermos ver que esta dividida en varias carpetas, en la imagen se ven algunas de ellas abiertas y podemos observar que dentro de cada uno de ella hay una variedad de bibliotecas que contienes diferentes assets, algunas son animiaciones, otras son particulas, otras son efectos, etc...
+![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/assets.png)
+
+En la parte central de la pantalla podemos ir observando como va quedando el proyecto de manera estática y también es donde el desarrollador ira arrastrando y añadiendo los nodos nuevos que quiera para poder ir dandole forma al juego
+Para poder ver el juego en funcionamiento tenemos que cliclar el boton de play que hay arriba a la dereacha, esto nos abrira una nueva ventana con el juego ya en ejecución y probarlo
+![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/ejecucion.png)
+
+
 
 
 ## Conclusión
+
+Como conclusión este es un motor que tiene una curva de aprendizaje bastante asequible para un usuario sin experiencia en la creación de videojuegos y ni en programación por lo que casi todo el mundo con unos conocimientos basicos y con ganas de aprender y ahcer algo nuevo puede hacer uso de el, pero tambien esta lo suficientemente bien hecho y pensado como para que gente que tenga conocimientos en este ambito puede hacer un muy buen uso de el y hacer cosas muy buenas, obviamtente no al nivel de otros motores que no estan basado en progamnación de bloques pero si con un nivel bastante alto.
+Es un motor que si tuviera que hacer algun juego de movil medianamente sencillo usaria ya que no voy a tardar semanas o meses en dominarlo y podría hacer cosas chulas y curradas con el.
+
+### Bibliografía
+Toda la información ha salido de la pagina oficial del motor, tanto de los foros de ayuda internos como del blog oficial donde ayudan a la gente que quiere empezar a usar el Buildbox
+
+`<link>` : <https://signup.buildbox.com/> 
+
