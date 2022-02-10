@@ -1,3 +1,4 @@
+<div aling="center">
 # BuildBox
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/buildbox_logo.png)
 
@@ -109,3 +110,4 @@ Toda la información ha salido de la pagina oficial del motor, tanto de los foro
 
 `<link>` : <https://signup.buildbox.com/> 
 
+</div>
