@@ -82,6 +82,7 @@ Y ya estaría todo preparado y listo para hacer nuestro nuevo y innovador juego 
 ## Ejemplo
 
 Como ejemplos de lo que puede hacer este motor grafico en 2D vamos a usar una de las demos que trae de por si el programa instalado instalado para ello vamos a abrirlo y en el menu princimal seleccionar dicha demo
+
 ![](https://github.com/jorgejpg/MiApp/blob/main/Videojuegos/img/demo.png)
 
 Una vez abierto el proyecto podemos ver lo como es el programa en si
