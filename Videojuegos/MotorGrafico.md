@@ -103,7 +103,7 @@ Para poder ver el juego en funcionamiento tenemos que cliclar el boton de play q
 
 ## Conclusión
 
-Como conclusión este es un motor que tiene una curva de aprendizaje bastante asequible para un usuario sin experiencia en la creación de videojuegos y ni en programación por lo que casi todo el mundo con unos conocimientos basicos y con ganas de aprender y ahcer algo nuevo puede hacer uso de el, pero tambien esta lo suficientemente bien hecho y pensado como para que gente que tenga conocimientos en este ambito puede hacer un muy buen uso de el y hacer cosas muy buenas, obviamtente no al nivel de otros motores que no estan basado en progamnación de bloques pero si con un nivel bastante alto.
+Como conclusión este es un motor que tiene una curva de aprendizaje bastante asequible para un usuario sin experiencia en la creación de videojuegos y ni en programación por lo que casi todo el mundo con unos conocimientos basicos y con ganas de aprender y hacer algo nuevo puede hacer uso de el, pero tambien esta lo suficientemente bien hecho y pensado como para que gente que tenga conocimientos en este ambito puede hacer un muy buen uso de el y hacer cosas muy buenas, obviamtente no al nivel de otros motores que no estan basado en progamnación de bloques pero si con un nivel bastante alto.
 Es un motor que si tuviera que hacer algun juego de movil medianamente sencillo usaria ya que no voy a tardar semanas o meses en dominarlo y podría hacer cosas chulas y curradas con el.
 
 ### Bibliografía
