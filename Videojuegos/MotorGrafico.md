@@ -10,7 +10,7 @@
   * Caracteristicas
   * Instalación
 - Ejemplos
-- Comclusión
+- Conclusión
 
 ----
 
