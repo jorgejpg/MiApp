@@ -10,9 +10,9 @@
 
 **ÍNDICE DE CONTENIDOS GENERALES**
 
-<img src="imagesTecnico/image9.png" style="width:200px"/>
+<img src="imagesTecnico/image9.png" style="width:400px"/>
 
-<img src="imagesTecnico/image20.png" style="width:200px"/>
+<img src="imagesTecnico/image20.png" style="width:400px"/>
 
 <img src="imagesTecnico/image5.png" style="width:200px"/>
 
