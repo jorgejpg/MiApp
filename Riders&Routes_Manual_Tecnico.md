@@ -233,7 +233,7 @@ Veamos cómo funcionan las peticiones asíncronas y las interfaces que deben ext
 - **WebIdClass**: es la clase de identificación en el backend que suele ser String
 - **Repository**: es el nombre del propio repositorio que estamos creando
 
-ruby``` public class Repository
+```ruby public class Repository
 
 implements RepositoryCRUD<EntityClass, LocalIdClass, WebIdClass, Repository>, RepositoryResponse<Repository> {
 
