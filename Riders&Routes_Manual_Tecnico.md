@@ -233,7 +233,7 @@ Veamos cómo funcionan las peticiones asíncronas y las interfaces que deben ext
 - **WebIdClass**: es la clase de identificación en el backend que suele ser String
 - **Repository**: es el nombre del propio repositorio que estamos creando
 
-` public class Repository
+``` public class Repository
 
 implements RepositoryCRUD<EntityClass, LocalIdClass, WebIdClass, Repository>, RepositoryResponse<Repository> {
 
@@ -253,7 +253,8 @@ public static RiderRepository newInstance(Context context) {
 
 return new RiderRepository(context);
 
-} } `
+} } 
+```
 
 Antes de comenzar a escribir nuestra primera función que solicitará datos a bbdd o a la web, debemos ver el OnRepositorySuccessListener y el OnRepositoryFailureListener.
 
