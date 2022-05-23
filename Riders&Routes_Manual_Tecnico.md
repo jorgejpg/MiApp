@@ -102,7 +102,7 @@ Todos los datos relacionados a un usuario particular serán guardados en un docu
 
 La estructura de este documento es la siguiente.
 
-<img src="imagesTecnico/image1.png" style="width:200px"/>
+<img src="imagesTecnico/image1.png" style="width:500px"/>
 
 ***Colección Profile***
 
@@ -128,7 +128,7 @@ Esta colección funciona como un fichero de indexado. Se almacenan los identific
 
 Todas las rutas se guardan como documentos con un identificador único en la colección routes bajo la ruta **/routes.**
 
-<img src="imagesTecnico/image12.png" style="width:200px"/>
+<img src="imagesTecnico/image12.png" style="width:500px"/>
 
 ***Colección images***
 
@@ -158,7 +158,7 @@ El sistema de mensajería se basa en entidades llamadas **chatgroups** las cuale
 
 Una entidad chatgroup tiene la siguiente estructura de datos en nuestra base de datos firestore.
 
-<img src="imagesTecnico/image2.png" style="width:200px"/>
+<img src="imagesTecnico/image2.png" style="width:500px"/>
 
 Los chatgroup contienen campos que aún no se usan en la aplicación pero están para futuras actualizaciones que introducirán seguridad y privacidad al chat
 
